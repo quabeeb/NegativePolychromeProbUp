@@ -1,5 +1,5 @@
 # NegativePolychromeProbUp
-Increases the chances that a card will be Negative or Polychrome. 
+Increases the chances that a card will be Negative or Polychrome. Also allows negative jokers to be modified by the `Hone` and `Glow up` [vouchers](https://balatrogame.fandom.com/wiki/Vouchers)
 
 Probability table for jokers below:
 
