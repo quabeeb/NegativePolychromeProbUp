@@ -27,7 +27,7 @@ function poll_edition(_key, _mod, _no_neg, _guaranteed)
             return {polychrome = true}
         elseif edition_poll < 0.22 then
             return {holo = true}
-        elseif edition_poll > 0.26 then
+        elseif edition_poll < 0.26 then
             return {foil = true}
         end
     end
